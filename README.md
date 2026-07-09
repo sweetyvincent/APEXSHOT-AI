@@ -1,5 +1,7 @@
 # ApexShot AI: NBA Spatial Shot Quality & Defensive Contest Modeling Engine
 
+**Live Deploy Link**: [https://sweetyvincent.github.io/APEXSHOT-AI/](https://sweetyvincent.github.io/APEXSHOT-AI/)
+
 ApexShot AI is an advanced sports analytics application and predictive engine designed to evaluate shot quality, shooter talent, and defensive contest impact using spatial and contextual player tracking logs. 
 
 It addresses a major gap in modern sports analytics: standard statistics like Field Goal Percentage (FG%) fail to account for shot difficulty (distance, defender proximity, dribbles, and release types). ApexShot AI trains a **multivariate Logistic Regression model** using Python (`scikit-learn`) on spatial tracking features to calculate **Expected Field Goal Percentage (xeFG%)** and **Expected Points (xPTS)**, isolating player shot selection from execution skill.
