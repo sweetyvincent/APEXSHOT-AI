@@ -1,0 +1,345 @@
+{
+  "coefficients": {
+    "intercept": -0.0033,
+    "distance": -0.0282,
+    "defender_distance": 0.12,
+    "dribbles": 0.0035,
+    "is_catch_and_shoot": -0.2103,
+    "is_pull_up": -0.3599,
+    "is_layup_dunk": 0.5656
+  },
+  "player_stats": [
+    {
+      "player": "Stephen Curry",
+      "attempts": 1600,
+      "makes": 753,
+      "three_attempts": 964,
+      "three_makes": 430,
+      "actual_efg": 0.605,
+      "expected_efg": 0.5435,
+      "shot_making": 0.0615,
+      "avg_distance": 20.36,
+      "avg_defender_distance": 3.91,
+      "avg_dribbles": 2.4,
+      "zones": {
+        "Restricted Area": {
+          "attempts": 218,
+          "efg": 0.5505,
+          "xefg": 0.6809,
+          "shot_making": -0.1304
+        },
+        "Paint (Non-RA)": {
+          "attempts": 157,
+          "efg": 0.586,
+          "xefg": 0.4792,
+          "shot_making": 0.1068
+        },
+        "Mid-Range": {
+          "attempts": 193,
+          "efg": 0.4093,
+          "xefg": 0.4175,
+          "shot_making": -0.0082
+        },
+        "Corner 3": {
+          "attempts": 198,
+          "efg": 0.6742,
+          "xefg": 0.5784,
+          "shot_making": 0.0958
+        },
+        "Above the Break 3": {
+          "attempts": 766,
+          "efg": 0.6678,
+          "xefg": 0.5534,
+          "shot_making": 0.1144
+        }
+      }
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "attempts": 1600,
+      "makes": 925,
+      "three_attempts": 98,
+      "three_makes": 30,
+      "actual_efg": 0.5875,
+      "expected_efg": 0.6054,
+      "shot_making": -0.0179,
+      "avg_distance": 6.48,
+      "avg_defender_distance": 2.9,
+      "avg_dribbles": 0.67,
+      "zones": {
+        "Restricted Area": {
+          "attempts": 979,
+          "efg": 0.7497,
+          "xefg": 0.6843,
+          "shot_making": 0.0654
+        },
+        "Paint (Non-RA)": {
+          "attempts": 318,
+          "efg": 0.3522,
+          "xefg": 0.4914,
+          "shot_making": -0.1392
+        },
+        "Mid-Range": {
+          "attempts": 198,
+          "efg": 0.2424,
+          "xefg": 0.4232,
+          "shot_making": -0.1808
+        },
+        "Corner 3": {
+          "attempts": 10,
+          "efg": 0.45,
+          "xefg": 0.5656,
+          "shot_making": -0.1156
+        },
+        "Above the Break 3": {
+          "attempts": 88,
+          "efg": 0.4602,
+          "xefg": 0.5724,
+          "shot_making": -0.1122
+        }
+      }
+    },
+    {
+      "player": "LeBron James",
+      "attempts": 1600,
+      "makes": 815,
+      "three_attempts": 423,
+      "three_makes": 148,
+      "actual_efg": 0.5556,
+      "expected_efg": 0.5732,
+      "shot_making": -0.0176,
+      "avg_distance": 12.19,
+      "avg_defender_distance": 3.36,
+      "avg_dribbles": 1.52,
+      "zones": {
+        "Restricted Area": {
+          "attempts": 636,
+          "efg": 0.673,
+          "xefg": 0.6856,
+          "shot_making": -0.0126
+        },
+        "Paint (Non-RA)": {
+          "attempts": 283,
+          "efg": 0.4735,
+          "xefg": 0.4833,
+          "shot_making": -0.0098
+        },
+        "Mid-Range": {
+          "attempts": 216,
+          "efg": 0.4444,
+          "xefg": 0.4192,
+          "shot_making": 0.0252
+        },
+        "Corner 3": {
+          "attempts": 78,
+          "efg": 0.6154,
+          "xefg": 0.5865,
+          "shot_making": 0.0289
+        },
+        "Above the Break 3": {
+          "attempts": 345,
+          "efg": 0.5043,
+          "xefg": 0.5559,
+          "shot_making": -0.0516
+        }
+      }
+    },
+    {
+      "player": "Kevin Durant",
+      "attempts": 1600,
+      "makes": 768,
+      "three_attempts": 440,
+      "three_makes": 144,
+      "actual_efg": 0.525,
+      "expected_efg": 0.513,
+      "shot_making": 0.012,
+      "avg_distance": 15.65,
+      "avg_defender_distance": 3.7,
+      "avg_dribbles": 1.6,
+      "zones": {
+        "Restricted Area": {
+          "attempts": 240,
+          "efg": 0.6708,
+          "xefg": 0.6897,
+          "shot_making": -0.0189
+        },
+        "Paint (Non-RA)": {
+          "attempts": 360,
+          "efg": 0.5472,
+          "xefg": 0.4768,
+          "shot_making": 0.0704
+        },
+        "Mid-Range": {
+          "attempts": 532,
+          "efg": 0.4774,
+          "xefg": 0.4208,
+          "shot_making": 0.0566
+        },
+        "Corner 3": {
+          "attempts": 79,
+          "efg": 0.4937,
+          "xefg": 0.567,
+          "shot_making": -0.0733
+        },
+        "Above the Break 3": {
+          "attempts": 361,
+          "efg": 0.4903,
+          "xefg": 0.5635,
+          "shot_making": -0.0732
+        }
+      }
+    },
+    {
+      "player": "Luka Doncic",
+      "attempts": 1600,
+      "makes": 723,
+      "three_attempts": 552,
+      "three_makes": 179,
+      "actual_efg": 0.5078,
+      "expected_efg": 0.5433,
+      "shot_making": -0.0355,
+      "avg_distance": 14.96,
+      "avg_defender_distance": 3.56,
+      "avg_dribbles": 4.26,
+      "zones": {
+        "Restricted Area": {
+          "attempts": 434,
+          "efg": 0.6336,
+          "xefg": 0.6855,
+          "shot_making": -0.0519
+        },
+        "Paint (Non-RA)": {
+          "attempts": 275,
+          "efg": 0.52,
+          "xefg": 0.4654,
+          "shot_making": 0.0546
+        },
+        "Mid-Range": {
+          "attempts": 297,
+          "efg": 0.3704,
+          "xefg": 0.4138,
+          "shot_making": -0.0434
+        },
+        "Corner 3": {
+          "attempts": 111,
+          "efg": 0.5541,
+          "xefg": 0.5768,
+          "shot_making": -0.0227
+        },
+        "Above the Break 3": {
+          "attempts": 441,
+          "efg": 0.4694,
+          "xefg": 0.5447,
+          "shot_making": -0.0753
+        }
+      }
+    }
+  ],
+  "defender_stats": [
+    {
+      "defender": "Rudy Gobert",
+      "description": "Elite Rim Protector",
+      "attempts": 1603,
+      "actual_efg_allowed": 0.5571,
+      "expected_efg_allowed": 0.5474,
+      "defensive_impact": -0.0097,
+      "avg_defender_distance": 3.23,
+      "inside": {
+        "attempts": 611,
+        "actual_efg_allowed": 0.5908,
+        "expected_efg_allowed": 0.6463,
+        "defensive_impact": 0.0555
+      },
+      "perimeter": {
+        "attempts": 992,
+        "actual_efg_allowed": 0.5363,
+        "expected_efg_allowed": 0.4865,
+        "defensive_impact": -0.0498
+      }
+    },
+    {
+      "defender": "Alex Caruso",
+      "description": "Lockdown Perimeter Defender",
+      "attempts": 1670,
+      "actual_efg_allowed": 0.4964,
+      "expected_efg_allowed": 0.5341,
+      "defensive_impact": 0.0377,
+      "avg_defender_distance": 2.59,
+      "inside": {
+        "attempts": 689,
+        "actual_efg_allowed": 0.627,
+        "expected_efg_allowed": 0.6373,
+        "defensive_impact": 0.0103
+      },
+      "perimeter": {
+        "attempts": 981,
+        "actual_efg_allowed": 0.4047,
+        "expected_efg_allowed": 0.4616,
+        "defensive_impact": 0.0569
+      }
+    },
+    {
+      "defender": "Jaden McDaniels",
+      "description": "Versatile Wing Stopper",
+      "attempts": 1552,
+      "actual_efg_allowed": 0.4977,
+      "expected_efg_allowed": 0.5303,
+      "defensive_impact": 0.0326,
+      "avg_defender_distance": 2.87,
+      "inside": {
+        "attempts": 581,
+        "actual_efg_allowed": 0.6196,
+        "expected_efg_allowed": 0.635,
+        "defensive_impact": 0.0154
+      },
+      "perimeter": {
+        "attempts": 971,
+        "actual_efg_allowed": 0.4248,
+        "expected_efg_allowed": 0.4676,
+        "defensive_impact": 0.0428
+      }
+    },
+    {
+      "defender": "Average Defender",
+      "description": "Standard Contest",
+      "attempts": 1628,
+      "actual_efg_allowed": 0.5645,
+      "expected_efg_allowed": 0.5658,
+      "defensive_impact": 0.0013,
+      "avg_defender_distance": 3.78,
+      "inside": {
+        "attempts": 610,
+        "actual_efg_allowed": 0.6623,
+        "expected_efg_allowed": 0.658,
+        "defensive_impact": -0.0043
+      },
+      "perimeter": {
+        "attempts": 1018,
+        "actual_efg_allowed": 0.5059,
+        "expected_efg_allowed": 0.5105,
+        "defensive_impact": 0.0046
+      }
+    },
+    {
+      "defender": "Weak Defender",
+      "description": "Subpar Contest",
+      "attempts": 1547,
+      "actual_efg_allowed": 0.6697,
+      "expected_efg_allowed": 0.6025,
+      "defensive_impact": -0.0672,
+      "avg_defender_distance": 5.02,
+      "inside": {
+        "attempts": 576,
+        "actual_efg_allowed": 0.7448,
+        "expected_efg_allowed": 0.6804,
+        "defensive_impact": -0.0644
+      },
+      "perimeter": {
+        "attempts": 971,
+        "actual_efg_allowed": 0.6251,
+        "expected_efg_allowed": 0.5563,
+        "defensive_impact": -0.0688
+      }
+    }
+  ]
+}
